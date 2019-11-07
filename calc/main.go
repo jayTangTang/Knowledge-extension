@@ -18,6 +18,10 @@ func main() {
 	div := Div(100, 20)
 	fmt.Println("div(100 , 20):", div)
 
+
 	multi := multi(10, 20)
 	fmt.Println("multi(10,20):", multi)
+
+	fmt.Println("你好 我是div")
+
 }
