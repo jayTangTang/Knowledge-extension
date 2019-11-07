@@ -18,4 +18,6 @@ func main() {
 
 	div := Div(100, 20)
 	fmt.Println("div(100 , 20):", div)
+
+	fmt.Println("你好 我是div")
 }
