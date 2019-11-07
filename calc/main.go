@@ -22,6 +22,10 @@ func main() {
 	multi := multi(10, 20)
 	fmt.Println("multi(10,20):", multi)
 
+
 	fmt.Println("你好 我是div")
+
+
+	fmt.Println("你好我是multi")
 
 }
